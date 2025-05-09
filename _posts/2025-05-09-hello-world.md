@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "My Skills"
 date: 2025-05-09
 categories: [Skills, Portfolio]
@@ -7,6 +6,6 @@ tags: [skills, programming, web development]
 author: "RomainM4"
 ---
 
-# Hello
+# Hello world
 
-Hello this is my blog !
+Hello world this is my blog.
