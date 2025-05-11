@@ -1,6 +1,6 @@
 ---
 title: "Nostale Clientless WebController: A .NET Core 8 Solution"
-date: 2024-06-12
+date: 2023-11-01
 categories: [Nostale, .NET, GameDev, Backend, Aspire, Docker]
 ---
 
