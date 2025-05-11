@@ -16,7 +16,7 @@ timezone:
 
 title: Romain M4 # the main title
 
-tagline: My blog # it will display as the subtitle
+tagline: .NET CORE & WINDOWS SECURITY # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   blog, romainm4, github, jekyll.
