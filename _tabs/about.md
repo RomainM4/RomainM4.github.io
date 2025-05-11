@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-![Desktop View](/assets/img/Photo%20de%20profile%202.jpg){: width="500" height="1024" .w-50 .right}
+![Desktop View](/assets/img/Romain.M4.png){: width="500" height="1024" .w-50 .right}
 
 I’m **Romain Mollé**, a passionate developer specialized in .NET Core 8 & C, currently based near Nantes from France. I have a strong background in software engineering, cybersecurity, and Windows internals. My focus is on **building robust, secure, and scalable solutions** — from clean architecture web APIs to system-level automation.
 
