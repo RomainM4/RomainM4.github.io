@@ -8,4 +8,4 @@ categories: [.NetCore, RabbitMQ, Project, Portfolio]
 
 Hello world this is my blog.
 
-<img src="https://github.com/RomainM4/Assets/blob/main/NostaleWorker.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+<img src="https://github.com/RomainM4/Assets/blob/main/NostaleClientlessController_Login.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
